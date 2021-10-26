@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on websites development using WordPress (institutional and e-commerce).
+- 🌱 I’m currently learning React.js
 <!--
 **victorlennon/victorlennon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
